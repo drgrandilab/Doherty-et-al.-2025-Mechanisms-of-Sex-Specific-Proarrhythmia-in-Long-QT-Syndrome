@@ -26,7 +26,7 @@ Folder “Grandi” :
 
 Grandi_main_LQT	                loads initial conditions and runs baseline simulations
 Grandi_model_LQT	              excitation-contraction coupling model
-yfin_endo_0p5Hz	initial         condition male (2000 BCL where LQT simulation is ran)
+yfin_endo_0p5Hz	                initial condition male (2000 BCL where LQT simulation is ran)
 yfin_endo_female_0p5Hz	        initial condition female (2000 BCL where LQT simulation is ran)
 ratescript_grandi	plots         rate dependent figures of biomarkers
 
